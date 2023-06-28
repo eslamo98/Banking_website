@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Banking_website/static/css/main.c4cf1dc0.css",
+    "main.js": "/Banking_website/static/js/main.de888f63.js",
+    "static/media/hero4.png": "/Banking_website/static/media/hero4.a30705eea8f3bd2c0277.png",
+    "static/media/hero3.png": "/Banking_website/static/media/hero3.eeaa959ee9ec937791d6.png",
+    "static/media/blog2.jpg": "/Banking_website/static/media/blog2.c198af58286660a65de6.jpg",
+    "static/media/blog1.jpg": "/Banking_website/static/media/blog1.062028cf8e2b6201c297.jpg",
+    "static/media/user4.jpg": "/Banking_website/static/media/user4.e8a6c7c79bf7348aeda0.jpg",
+    "static/media/user1.jpg": "/Banking_website/static/media/user1.04d84c95fab38b557959.jpg",
+    "static/media/user5.jpg": "/Banking_website/static/media/user5.5fb5c71a3e08aff1c578.jpg",
+    "static/media/user2.jpg": "/Banking_website/static/media/user2.42c126d38ecd6a94419f.jpg",
+    "static/media/blog3.jpg": "/Banking_website/static/media/blog3.6c92bc469dbae840f7df.jpg",
+    "static/media/user3.jpg": "/Banking_website/static/media/user3.11a4132badc78f1dcc75.jpg",
+    "index.html": "/Banking_website/index.html",
+    "main.c4cf1dc0.css.map": "/Banking_website/static/css/main.c4cf1dc0.css.map",
+    "main.de888f63.js.map": "/Banking_website/static/js/main.de888f63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4cf1dc0.css",
+    "static/js/main.de888f63.js"
+  ]
+}
